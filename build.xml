@@ -10,7 +10,7 @@ project description: HelloWorld project
   <property name="build.dir"   value="build"/>
   <property name="classes.dir" value="${build.dir}/classes"/>
   <property name="jar.dir"     value="${build.dir}/jar"/>
-  <property name="main-class"  value="packworld.helloworldpr"/>
+  <property name="main-class"  value="packworld.hellworldpr"/>
  
   <target name="clean">
     <delete dir="${build.dir}"/>
